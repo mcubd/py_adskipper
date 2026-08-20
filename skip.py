@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 # List of all images you want to detect
-image_list = ['s2.png' ]  # Add as many as you want
+image_list = ['skip.png' ]  # Add as many as you want
 
 while True:
     try:
