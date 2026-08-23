@@ -2,7 +2,7 @@
 
 A simple Python automation script that detects YouTube "Skip Ad" buttons on screen and automatically clicks them using screen-matching and GUI automation.
 
-![Demo](demo.gif)
+![Demo](demo.gif) 
 
 ## 📌 Features
 
